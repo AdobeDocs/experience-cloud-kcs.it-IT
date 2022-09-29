@@ -4,17 +4,17 @@ solution-title: Troubleshooting
 type: Troubleshooting
 index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.it-IT
-source-git-commit: fd6d5b238753d067c34e71f283f1c92cb7d53237
+source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 96%
+source-wordcount: '128'
+ht-degree: 85%
 
 ---
 
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, esegui questa operazione in qualsiasi file TOC.md.
+La [!DNL metadata.md] i file includono metadati a livello di repository che passano alla guida utente [!DNL TOC.md] file nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, esegui questa operazione in qualsiasi file TOC.md.
 
 | metadati | funzione |
 |--- |--- |

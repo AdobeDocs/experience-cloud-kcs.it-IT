@@ -1,5 +1,5 @@
 ---
-source-git-commit: e8f4ca2dd578944d4fe399074fab461de88ad247
+source-git-commit: 0c3e421beca46d9fe1952b1f98538a50697216a0
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Modifiche principali da dipendenti Adobe
 
-Se sei un autore, un responsabile di programma o uno sviluppatore del team di prodotto per una soluzione Adobe Experience Cloud e il tuo lavoro consiste nel creare o contribuire ad articoli tecnici, devi utilizzare l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`.
+Se sei un autore, un responsabile di programma o uno sviluppatore del team di prodotto per una soluzione [!UICONTROL Adobe Experience Cloud] e il tuo lavoro consiste nel contribuire a o creare articoli tecnici, devi utilizzare l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
