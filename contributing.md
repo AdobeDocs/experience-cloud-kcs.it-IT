@@ -1,7 +1,7 @@
 ---
-source-git-commit: 92793db8ae862ad08a17d079f343f26b5096de8e
+source-git-commit: 20c4e7effb70e287c0e56c14e5831b139bc4a64c
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ prevede il rispetto di tale codice. Segnala comportamenti inaccettabili all’in
 
 ## Documentazione della guida per i collaboratori
 
-Consulta la [Guida per i collaboratori](https://docs.adobe.com/content/help/it-IT/contributor/contributor-guide/introduction.html).
+Consulta la [Guida per i collaboratori](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
 
 ## Hai una domanda?
 
