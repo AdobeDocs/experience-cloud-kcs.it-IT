@@ -1,7 +1,7 @@
 ---
-source-git-commit: 20c4e7effb70e287c0e56c14e5831b139bc4a64c
+source-git-commit: 1d8853288655a9c383136080d0db89dba69d13eb
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '281'
 ht-degree: 100%
 
 ---
@@ -52,4 +52,4 @@ rivolgiti ai committenti esistenti per parlarne con loro.
 
 ## Problemi di sicurezza
 
-I problemi di sicurezza non devono essere segnalati in questo registro di problemi, ma puoi [segnalare un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)
+I problemi di sicurezza non devono essere segnalati in questo registro di problemi, [Segnala un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)
